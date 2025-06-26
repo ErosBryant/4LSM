@@ -7,9 +7,9 @@ The LSM-tree grows with data ingestion, by either adding levels with fixed level
 
 - Tiering:  Each level can have multiple sorted runs, so incoming data is simply appended without immediate merging.
 
-![Vertical vs Horizontal](../4LSM/Figure/Vertival-Horizontal.png)
+![Vertical vs Horizontal](./Figure/Vertival-Horizontal.png)
 
-![Vertical vs Horizontal](../4LSM/Figure/examples.png)
+![Vertical vs Horizontal](./Figure/examples.png)
 
 
 
